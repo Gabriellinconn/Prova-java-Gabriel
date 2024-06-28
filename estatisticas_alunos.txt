@@ -1,0 +1,6 @@
+Quantidade de alunos na turma: 66
+Quantidade de alunos aprovados (nota >= 6.0): 36
+Quantidade de alunos reprovados (nota < 6.0): 30
+Menor nota da turma: 0.0
+Maior nota da turma: 10.0
+Média geral das notas: 5.536363636363636
